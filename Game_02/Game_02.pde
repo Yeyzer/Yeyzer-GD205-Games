@@ -1,7 +1,4 @@
   float shipX = 300;
-//ArrayList<bullets>=new ArrayList<bullets>();
-// Score
-//int score = 0;
 
 void setup(){
  size(600,1000);
